@@ -28,7 +28,7 @@ The basics of my teams design is 3D printed plant pots that have [soil sensors](
 My team has decided we we have an abundance of some WiFi microcontroller units, the [ESP8266](https://arduino-esp8266.readthedocs.io/en/latest/index.html), so I will be using these for the logic of our plants pots and standard [soil sensors](http://www.circuitstoday.com/arduino-soil-moisture-sensor) will do just the trick. The chips will be programmed to respond to a certain signal from the Arduino which will then send the feedback of the soil moisture level for live data processing. The hub connector for the Arduino will have a light sensors as well to log the lumisoity so that the plants can be moved if they need more light.
 As the design evolves, being able to add in LED's and even a self watering system when the moisture level hits a threshold are both great future milestones.
 
-In the next sprint, I hope me and my team can get a hardwired working prototype for our system, or even a proper working model for our design so we can start designing the 3D container by then end of the spring.
+In the next sprint, I hope me and my team can get a hardwired working prototype for our system, or even a proper working model for our design so we can start designing the 3D container by then end of the sprint.
 
 #### Artefacts
 > The components we will be using
